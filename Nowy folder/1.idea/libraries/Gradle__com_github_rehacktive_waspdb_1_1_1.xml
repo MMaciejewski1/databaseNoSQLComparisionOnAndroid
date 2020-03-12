@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rehacktive:waspdb-1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/waspdb-1.1.1.aar/3669a9f8a959e2ccea2e851a309749eb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/waspdb-1.1.1.aar/3669a9f8a959e2ccea2e851a309749eb/jars/libs/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/waspdb-1.1.1.aar/3669a9f8a959e2ccea2e851a309749eb/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
